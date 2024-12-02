@@ -1,11 +1,11 @@
 body{
     background-color: aqua(0, 255, 42, 0.533);
-    color:azure;
+    color:rgb(252, 206, 137);
 font-family: "Bokor", system-ui;
 }
 
 .chamada{
-    background-color: blueviolet(201, 189, 22);
+    background-color: brown(201, 189, 22);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
@@ -35,7 +35,7 @@ img{
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 5px;
-    background-color: blue(16, 31, 189);
+    background-color: pink(16, 31, 189);
 }
 .categoria-videos{
     display: flex;
